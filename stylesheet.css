@@ -1,0 +1,21 @@
+div{
+    height:400px;
+  width:5000px;
+}
+
+.skills{
+      
+  height:400px;
+  width:50000px;
+  background-color:rgb(50, 55, 205);
+  padding:20px;
+  border:10px;
+}
+.contact-me{
+  
+height:400px;
+width:50000px;
+background-color:rgb(205, 50, 159);
+padding:20px;
+border:10px;
+}
